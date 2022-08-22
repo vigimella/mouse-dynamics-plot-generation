@@ -3,4 +3,7 @@ venv
 __pycache__
 illegal_folder
 legal_folder
+all_sessions_folder
+aug_illegal_folder
+aug_legal_folder
 .env
