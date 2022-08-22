@@ -1,0 +1,6 @@
+venv
+.idea
+__pycache__
+illegal_folder
+legal_folder
+.env
