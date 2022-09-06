@@ -1,5 +1,5 @@
 
-# MDPG (Mouse Dynamic Plot Generator)
+# MDPG (Mouse Dynamics Plot Generator)
 
 MDPG is a script written in Python language able to convert the user's 
 sessions stored in [Balabit Mouse-Dynamics-Challenge](https://github.com/balabit/Mouse-Dynamics-Challenge) into images. As a consequence of 
